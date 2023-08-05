@@ -1,1 +1,1 @@
-# my-site
+# my-site (Udemy Course Project)
